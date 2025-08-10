@@ -3,8 +3,7 @@
 ![github_cover_banner](https://github.com/bannersb19/bannersb19/assets/86323992/4d8d4db7-0641-43d5-adcf-63452993550e)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-   Final year student enrolled in Computer Science and Information Technology programme. Dedicated to Cyber Security and Web Development, having two or more years of expertise and specializing in web development, algorithms, penetration
-testing, and docker containerization. Looking for internships in the field of Security, Security Testing, and Web development.
+   Cybersecurity professional with PG Diploma from The University of Edinburgh & BTech from UEM Kolkata. Specialized in penetration testing, GDPR compliance & risk management. Experienced in web/mobile/API security assessments using Burp Suite, Wazuh SIEM & Keycloak. Interned at proceedIT & THE CYBERHOST, implementing Zero Trust architectures & reducing security incidents by 40%. Proficient in vulnerability assessment, identity management & SOC design. Strong technical documentation & cross-functional collaboration skills for delivering comprehensive security solutions.
 <br>
 <br>
 <div align="center">
